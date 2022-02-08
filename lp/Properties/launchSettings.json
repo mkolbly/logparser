@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lp": {
+      "commandName": "Project",
+      "commandLineArgs": "341b536b-e248-4abf-9510-48ddc9c4caf9 d:\\temp2\\pimrunner.log d:\\temp2\\parsed.log"
+    }
+  }
+}
